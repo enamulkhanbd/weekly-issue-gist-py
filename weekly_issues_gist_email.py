@@ -10,7 +10,7 @@ import os
 # CONFIGURATION
 GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
 REPO = "enamulkhanbd/weekly-issue-gist-py"
-DEVELOPER_EMAIL = ["fuhadhasan472@gmail.com, fuhadhasan479@gmail.com"]
+DEVELOPER_EMAIL = ["enamul.khan@justgo.com, sparvez.ipa@gmail.com"]
 SENDER_EMAIL = "hometv.ipa@gmail.com"
 SENDER_EMAIL_PASSWORD = os.environ['EMAIL_PASSWORD']  # Use App Password for Gmail
 SMTP_SERVER = "smtp.gmail.com"
